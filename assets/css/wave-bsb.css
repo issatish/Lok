@@ -11,6 +11,8 @@
   * Copyright 2022-2023 BootstrapBrain
   * Licensed under MIT (https://opensource.org/licenses/MIT)
   */
+
+html{font-family:--bs-font-sans-serif;}
 :root,
 [data-bs-theme="light"] {
   --bs-blue: #0d6efd;
