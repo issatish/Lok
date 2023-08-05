@@ -12,7 +12,7 @@
   * Licensed under MIT (https://opensource.org/licenses/MIT)
   */
 
-html{font-family:--bs-font-sans-serif;}
+html,p{font-family:--bs-font-sans-serif;}
 :root,
 [data-bs-theme="light"] {
   --bs-blue: #0d6efd;
