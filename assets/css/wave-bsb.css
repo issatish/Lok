@@ -10157,7 +10157,8 @@ fieldset:disabled .btn {
 }
 .text-accent {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-accent-rgb), var(--bs-text-opacity)) !important;
+ /* color: rgba(var(--bs-accent-rgb), var(--bs-text-opacity)) !important;*/
+ color:#e30512 !important;
 }
 .text-black {
   --bs-text-opacity: 1;
